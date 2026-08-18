@@ -1,339 +1,169 @@
 # Sprint 2 - Daily Standups
 
-## Ngày 1
+## 31/07/2026
 
 ### Huỳnh Đăng Khoa
 
-* **Hôm qua:** Review kết quả Sprint 1 và xác định các chức năng còn lại.
-* **Hôm nay:** Chuẩn bị chức năng quản lý khách hàng.
+* **Hôm qua:** Hoàn thành Sprint 1 và tổng hợp kết quả Sprint Review.
+* **Hôm nay:** Bắt đầu Sprint 2, phân tích Product Backlog và chuẩn bị kế hoạch triển khai.
 * **Blockers:** Chưa có.
 
 ### Nguyễn Chí Hoàng
 
-* **Hôm qua:** Review Product Backlog của Sprint 2.
-* **Hôm nay:** Chuẩn bị chức năng thêm và sửa khách hàng.
+* **Hôm qua:** Kiểm tra lại các chức năng sản phẩm của Sprint 1.
+* **Hôm nay:** Phân tích yêu cầu chức năng quản lý khách hàng.
 * **Blockers:** Chưa có.
 
 ### Ngô Nhựt Nam
 
-* **Hôm qua:** Phân tích yêu cầu tạo đơn hàng.
-* **Hôm nay:** Thiết kế giao diện tạo đơn hàng.
+* **Hôm qua:** Hoàn thiện các công việc còn lại của Sprint 1.
+* **Hôm nay:** Phân tích chức năng thêm và cập nhật khách hàng.
 * **Blockers:** Chưa có.
 
 ### Nguyễn Trọng Nghĩa
 
-* **Hôm qua:** Phân tích yêu cầu quản lý đơn hàng.
-* **Hôm nay:** Thiết kế danh sách và chi tiết đơn hàng.
+* **Hôm qua:** Kiểm tra các chức năng đã hoàn thành.
+* **Hôm nay:** Phân tích yêu cầu chức năng tạo đơn hàng.
+* **Blockers:** Chưa có.
+
+### Nguyễn Phi Hùng
+
+* **Hôm qua:** Tổng hợp kết quả kiểm thử Sprint 1.
+* **Hôm nay:** Chuẩn bị kế hoạch kiểm thử cho các chức năng Sprint 2.
+* **Blockers:** Chưa có.
+
+---
+
+## 01/08/2026
+
+### Huỳnh Đăng Khoa
+
+* **Hôm qua:** Phân tích Product Backlog Sprint 2.
+* **Hôm nay:** Thiết kế cấu trúc xử lý cho các chức năng mới.
+* **Blockers:** Chưa có.
+
+### Nguyễn Chí Hoàng
+
+* **Hôm qua:** Phân tích chức năng quản lý khách hàng.
+* **Hôm nay:** Thiết kế giao diện danh sách khách hàng.
+* **Blockers:** Chưa có.
+
+### Ngô Nhựt Nam
+
+* **Hôm qua:** Phân tích chức năng thêm và cập nhật khách hàng.
+* **Hôm nay:** Thiết kế giao diện thêm khách hàng.
+* **Blockers:** Chưa có.
+
+### Nguyễn Trọng Nghĩa
+
+* **Hôm qua:** Phân tích chức năng tạo đơn hàng.
+* **Hôm nay:** Thiết kế luồng xử lý đơn hàng.
 * **Blockers:** Chưa có.
 
 ### Nguyễn Phi Hùng
 
 * **Hôm qua:** Chuẩn bị kế hoạch kiểm thử Sprint 2.
-* **Hôm nay:** Chuẩn bị test case cho khách hàng và đơn hàng.
+* **Hôm nay:** Xây dựng test case cho chức năng khách hàng và đơn hàng.
 * **Blockers:** Chưa có.
 
 ---
 
-## Ngày 2
+## 02/08/2026
 
 ### Huỳnh Đăng Khoa
 
-* **Hôm qua:** Chuẩn bị chức năng quản lý khách hàng.
-* **Hôm nay:** Xây dựng giao diện và danh sách khách hàng.
+* **Hôm qua:** Thiết kế cấu trúc xử lý chức năng Sprint 2.
+* **Hôm nay:** Xây dựng phần xử lý dữ liệu chung.
 * **Blockers:** Chưa có.
 
 ### Nguyễn Chí Hoàng
 
-* **Hôm qua:** Chuẩn bị chức năng thêm và sửa khách hàng.
+* **Hôm qua:** Thiết kế giao diện danh sách khách hàng.
+* **Hôm nay:** Xây dựng chức năng xem danh sách khách hàng.
+* **Blockers:** Chưa có.
+
+### Ngô Nhựt Nam
+
+* **Hôm qua:** Thiết kế giao diện thêm khách hàng.
 * **Hôm nay:** Xây dựng chức năng thêm khách hàng.
 * **Blockers:** Chưa có.
 
-### Ngô Nhựt Nam
-
-* **Hôm qua:** Thiết kế giao diện tạo đơn hàng.
-* **Hôm nay:** Xây dựng chức năng chọn khách hàng và sản phẩm.
-* **Blockers:** Chưa có.
-
 ### Nguyễn Trọng Nghĩa
 
-* **Hôm qua:** Thiết kế danh sách và chi tiết đơn hàng.
-* **Hôm nay:** Xây dựng giao diện danh sách đơn hàng.
+* **Hôm qua:** Thiết kế luồng xử lý đơn hàng.
+* **Hôm nay:** Xây dựng chức năng tạo đơn hàng.
 * **Blockers:** Chưa có.
 
 ### Nguyễn Phi Hùng
 
-* **Hôm qua:** Chuẩn bị test case.
-* **Hôm nay:** Kiểm tra các chức năng đã hoàn thành.
+* **Hôm qua:** Xây dựng test case.
+* **Hôm nay:** Kiểm tra giao diện và chuẩn bị dữ liệu kiểm thử.
 * **Blockers:** Chưa có.
 
 ---
 
-## Ngày 3
+## 03/08/2026
 
 ### Huỳnh Đăng Khoa
 
-* **Hôm qua:** Xây dựng giao diện quản lý khách hàng.
-* **Hôm nay:** Hoàn thiện hiển thị danh sách khách hàng.
+* **Hôm qua:** Xây dựng phần xử lý dữ liệu chung.
+* **Hôm nay:** Kiểm tra tích hợp các chức năng Sprint 2.
 * **Blockers:** Chưa có.
 
 ### Nguyễn Chí Hoàng
 
-* **Hôm qua:** Xây dựng chức năng thêm khách hàng.
-* **Hôm nay:** Hoàn thiện kiểm tra dữ liệu khách hàng.
-* **Blockers:** Chưa có.
+* **Hôm qua:** Xây dựng chức năng xem danh sách khách hàng.
+* **Hôm nay:** Hoàn thiện hiển thị thông tin khách hàng.
+* **Blockers:** Cần kiểm tra dữ liệu hiển thị.
 
 ### Ngô Nhựt Nam
 
-* **Hôm qua:** Xử lý chọn khách hàng và sản phẩm.
-* **Hôm nay:** Xử lý số lượng và tính tổng tiền.
-* **Blockers:** Cần kiểm tra lại công thức tính tổng tiền.
+* **Hôm qua:** Xây dựng chức năng thêm khách hàng.
+* **Hôm nay:** Hoàn thiện kiểm tra dữ liệu đầu vào.
+* **Blockers:** Chưa có.
 
 ### Nguyễn Trọng Nghĩa
 
-* **Hôm qua:** Xây dựng giao diện danh sách đơn hàng.
-* **Hôm nay:** Hiển thị dữ liệu đơn hàng.
+* **Hôm qua:** Xây dựng chức năng tạo đơn hàng.
+* **Hôm nay:** Hoàn thiện xử lý tạo đơn hàng.
 * **Blockers:** Chưa có.
 
 ### Nguyễn Phi Hùng
 
-* **Hôm qua:** Kiểm tra các chức năng khách hàng và đơn hàng.
+* **Hôm qua:** Chuẩn bị dữ liệu kiểm thử.
+* **Hôm nay:** Kiểm thử chức năng khách hàng.
+* **Blockers:** Một số lỗi dữ liệu cần điều chỉnh.
+
+---
+
+## 04/08/2026
+
+### Huỳnh Đăng Khoa
+
+* **Hôm qua:** Kiểm tra tích hợp các chức năng Sprint 2.
+* **Hôm nay:** Hỗ trợ xử lý lỗi phát sinh trong quá trình phát triển.
+* **Blockers:** Chưa có.
+
+### Nguyễn Chí Hoàng
+
+* **Hôm qua:** Hoàn thiện hiển thị thông tin khách hàng.
+* **Hôm nay:** Xây dựng chức năng sửa thông tin khách hàng.
+* **Blockers:** Chưa có.
+
+### Ngô Nhựt Nam
+
+* **Hôm qua:** Hoàn thiện kiểm tra dữ liệu khách hàng.
 * **Hôm nay:** Kiểm thử chức năng thêm khách hàng.
 * **Blockers:** Chưa có.
 
----
-
-## Ngày 4
-
-### Huỳnh Đăng Khoa
-
-* **Hôm qua:** Hoàn thiện danh sách khách hàng.
-* **Hôm nay:** Kiểm tra và tích hợp chức năng quản lý khách hàng.
-* **Blockers:** Chưa có.
-
-### Nguyễn Chí Hoàng
-
-* **Hôm qua:** Hoàn thiện thêm khách hàng.
-* **Hôm nay:** Xây dựng chức năng sửa khách hàng.
-* **Blockers:** Chưa có.
-
-### Ngô Nhựt Nam
-
-* **Hôm qua:** Xử lý số lượng và tổng tiền.
-* **Hôm nay:** Hoàn thiện lưu đơn hàng.
-* **Blockers:** Chưa có.
-
 ### Nguyễn Trọng Nghĩa
 
-* **Hôm qua:** Hiển thị dữ liệu đơn hàng.
-* **Hôm nay:** Xây dựng chức năng xem chi tiết đơn hàng.
+* **Hôm qua:** Hoàn thiện xử lý tạo đơn hàng.
+* **Hôm nay:** Xây dựng chức năng xem danh sách đơn hàng.
 * **Blockers:** Chưa có.
 
 ### Nguyễn Phi Hùng
 
-* **Hôm qua:** Kiểm thử thêm khách hàng.
-* **Hôm nay:** Kiểm thử sửa khách hàng và tạo đơn hàng.
-* **Blockers:** Chưa có.
-
----
-
-## Ngày 5
-
-### Huỳnh Đăng Khoa
-
-* **Hôm qua:** Tích hợp chức năng quản lý khách hàng.
-* **Hôm nay:** Kiểm thử và sửa lỗi khách hàng.
-* **Blockers:** Chưa có.
-
-### Nguyễn Chí Hoàng
-
-* **Hôm qua:** Xây dựng chức năng sửa khách hàng.
-* **Hôm nay:** Hoàn thiện và kiểm thử chức năng sửa.
-* **Blockers:** Chưa có.
-
-### Ngô Nhựt Nam
-
-* **Hôm qua:** Hoàn thiện lưu đơn hàng.
+* **Hôm qua:** Kiểm thử chức năng khách hàng.
 * **Hôm nay:** Kiểm thử chức năng tạo đơn hàng.
-* **Blockers:** Chưa có.
-
-### Nguyễn Trọng Nghĩa
-
-* **Hôm qua:** Xây dựng chi tiết đơn hàng.
-* **Hôm nay:** Hoàn thiện hiển thị chi tiết đơn hàng.
-* **Blockers:** Chưa có.
-
-### Nguyễn Phi Hùng
-
-* **Hôm qua:** Kiểm thử sửa khách hàng và tạo đơn hàng.
-* **Hôm nay:** Kiểm thử danh sách và chi tiết đơn hàng.
-* **Blockers:** Chưa có.
-
----
-
-## Ngày 6
-
-### Huỳnh Đăng Khoa
-
-* **Hôm qua:** Kiểm thử chức năng khách hàng.
-* **Hôm nay:** Sửa các lỗi còn tồn tại và hỗ trợ tích hợp.
-* **Blockers:** Chưa có.
-
-### Nguyễn Chí Hoàng
-
-* **Hôm qua:** Hoàn thiện sửa khách hàng.
-* **Hôm nay:** Hỗ trợ kiểm tra toàn bộ chức năng khách hàng.
-* **Blockers:** Chưa có.
-
-### Ngô Nhựt Nam
-
-* **Hôm qua:** Kiểm thử tạo đơn hàng.
-* **Hôm nay:** Sửa lỗi liên quan đến tính tổng tiền.
-* **Blockers:** Chưa có.
-
-### Nguyễn Trọng Nghĩa
-
-* **Hôm qua:** Hoàn thiện chi tiết đơn hàng.
-* **Hôm nay:** Kiểm tra dữ liệu danh sách và chi tiết đơn hàng.
-* **Blockers:** Chưa có.
-
-### Nguyễn Phi Hùng
-
-* **Hôm qua:** Kiểm thử danh sách và chi tiết đơn hàng.
-* **Hôm nay:** Tổng hợp các lỗi cần sửa.
-* **Blockers:** Chưa có.
-
----
-
-## Ngày 7
-
-### Huỳnh Đăng Khoa
-
-* **Hôm qua:** Sửa lỗi và hỗ trợ tích hợp.
-* **Hôm nay:** Kiểm tra lại chức năng quản lý khách hàng.
-* **Blockers:** Chưa có.
-
-### Nguyễn Chí Hoàng
-
-* **Hôm qua:** Kiểm tra chức năng khách hàng.
-* **Hôm nay:** Sửa các lỗi giao diện nếu có.
-* **Blockers:** Chưa có.
-
-### Ngô Nhựt Nam
-
-* **Hôm qua:** Sửa lỗi tính tổng tiền.
-* **Hôm nay:** Kiểm tra lại toàn bộ chức năng tạo đơn hàng.
-* **Blockers:** Chưa có.
-
-### Nguyễn Trọng Nghĩa
-
-* **Hôm qua:** Kiểm tra danh sách và chi tiết đơn hàng.
-* **Hôm nay:** Sửa các lỗi phát hiện trong quá trình kiểm thử.
-* **Blockers:** Chưa có.
-
-### Nguyễn Phi Hùng
-
-* **Hôm qua:** Tổng hợp lỗi.
-* **Hôm nay:** Regression test các chức năng đã hoàn thành.
-* **Blockers:** Chưa có.
-
----
-
-## Ngày 8
-
-### Huỳnh Đăng Khoa
-
-* **Hôm qua:** Kiểm tra chức năng khách hàng.
-* **Hôm nay:** Hỗ trợ tích hợp và kiểm tra toàn hệ thống.
-* **Blockers:** Chưa có.
-
-### Nguyễn Chí Hoàng
-
-* **Hôm qua:** Sửa lỗi giao diện khách hàng.
-* **Hôm nay:** Kiểm thử lại thêm và sửa khách hàng.
-* **Blockers:** Chưa có.
-
-### Ngô Nhựt Nam
-
-* **Hôm qua:** Kiểm tra chức năng tạo đơn hàng.
-* **Hôm nay:** Sửa các lỗi còn tồn tại.
-* **Blockers:** Chưa có.
-
-### Nguyễn Trọng Nghĩa
-
-* **Hôm qua:** Sửa lỗi đơn hàng.
-* **Hôm nay:** Kiểm thử lại danh sách và chi tiết đơn hàng.
-* **Blockers:** Chưa có.
-
-### Nguyễn Phi Hùng
-
-* **Hôm qua:** Regression test.
-* **Hôm nay:** Chuẩn bị kiểm thử chức năng thống kê doanh thu.
-* **Blockers:** Chưa có.
-
----
-
-## Ngày 9
-
-### Huỳnh Đăng Khoa
-
-* **Hôm qua:** Kiểm tra tích hợp toàn hệ thống.
-* **Hôm nay:** Hoàn thiện chức năng đăng xuất.
-* **Blockers:** Chưa có.
-
-### Nguyễn Chí Hoàng
-
-* **Hôm qua:** Kiểm thử chức năng khách hàng.
-* **Hôm nay:** Kiểm tra lại các User Story liên quan đến khách hàng.
-* **Blockers:** Chưa có.
-
-### Ngô Nhựt Nam
-
-* **Hôm qua:** Hoàn thiện chức năng tạo đơn hàng.
-* **Hôm nay:** Kiểm tra lại đơn hàng sau khi tích hợp.
-* **Blockers:** Chưa có.
-
-### Nguyễn Trọng Nghĩa
-
-* **Hôm qua:** Kiểm thử danh sách và chi tiết đơn hàng.
-* **Hôm nay:** Hoàn thiện các lỗi còn lại.
-* **Blockers:** Chưa có.
-
-### Nguyễn Phi Hùng
-
-* **Hôm qua:** Chuẩn bị kiểm thử thống kê.
-* **Hôm nay:** Kiểm thử thống kê doanh thu và toàn bộ hệ thống.
-* **Blockers:** Chưa có.
-
----
-
-## Ngày 10
-
-### Huỳnh Đăng Khoa
-
-* **Hôm qua:** Hoàn thiện chức năng đăng xuất.
-* **Hôm nay:** Chuẩn bị Sprint Review và tổng hợp kết quả.
-* **Blockers:** Chưa có.
-
-### Nguyễn Chí Hoàng
-
-* **Hôm qua:** Kiểm tra các User Story khách hàng.
-* **Hôm nay:** Chuẩn bị demo chức năng khách hàng.
-* **Blockers:** Chưa có.
-
-### Ngô Nhựt Nam
-
-* **Hôm qua:** Kiểm tra chức năng tạo đơn hàng.
-* **Hôm nay:** Chuẩn bị demo tạo đơn hàng.
-* **Blockers:** Chưa có.
-
-### Nguyễn Trọng Nghĩa
-
-* **Hôm qua:** Hoàn thiện các lỗi đơn hàng.
-* **Hôm nay:** Chuẩn bị demo danh sách và chi tiết đơn hàng.
-* **Blockers:** Chưa có.
-
-### Nguyễn Phi Hùng
-
-* **Hôm qua:** Kiểm thử thống kê và toàn bộ hệ thống.
-* **Hôm nay:** Tổng hợp kết quả kiểm thử và chuẩn bị Sprint Review.
 * **Blockers:** Chưa có.
